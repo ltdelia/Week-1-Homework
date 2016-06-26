@@ -1,4 +1,4 @@
 # Louis T. Delia
-My personal website!
+Version 1 of portfolio site. Uses HTML5/CSS3
 
-Deployed app found here: ltdelia.herokuapp.com
+My personal websitec can now be found here: ltdelia.herokuapp.com.
